@@ -1,0 +1,1 @@
+https://github.com/rudra1546/Smart-Agriculture-System/raw/refs/heads/main/backend/backend/models/yield_model.pkl
